@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ashraf</h1>
+<h1 align="center">Hi 👋,<br>I'm Mohamed Ashraf</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- 🤖 Automation with Python<br>- 🔍 Web & Mobile Scraping<br>- 💡 Problem Solving<br>- 🌱 I’m currently learning Web Development 🌐</p>
+<p align="left">- 🤖 Automation with Python<br>- 🔍 Web & Mobile Scraping<br>- 💡 Problem Solving<br>- 🌱 I’m learning Web Development 🌐</p>
 
 ###
 
