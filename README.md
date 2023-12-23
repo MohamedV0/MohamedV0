@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/MohamedV0/MohamedV0/main/Image.gif"  />
+  <img height="150" src="https://raw.githubusercontent.com/MohamedV0/MohamedV0/main/Image.gif"  />
 </div>
 
 ###
