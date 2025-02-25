@@ -76,11 +76,7 @@ class FullStackDeveloper:
 [![HTTPX](https://img.shields.io/badge/HTTPX-009688?style=for-the-badge&logo=python&logoColor=white&style=plastic)](https://www.python-httpx.org/)
 [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-66595C?style=for-the-badge&logo=python&logoColor=white&style=plastic)](https://www.crummy.com/software/BeautifulSoup/)
 [![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=python&logoColor=white&style=plastic)](https://scrapy.org/)
-
-### 📱 Mobile Automation
 [![Appium](https://img.shields.io/badge/Appium-663399?style=for-the-badge&logo=android&logoColor=white&style=plastic)](http://appium.io/)
-[![UI Automator](https://img.shields.io/badge/UI_Automator-3DDC84?style=for-the-badge&logo=android&logoColor=white&style=plastic)](https://developer.android.com/training/testing/ui-automator)
-[![ADB](https://img.shields.io/badge/ADB_Shell-3DDC84?style=for-the-badge&logo=android&logoColor=white&style=plastic)](https://developer.android.com/studio/command-line/adb)
 
 ### 🔍 Reverse Engineering & Analysis
 [![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white&style=plastic)](https://portswigger.net/burp)
